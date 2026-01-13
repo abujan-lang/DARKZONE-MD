@@ -113,7 +113,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://irfan-host-37cd59bbca05.herokuapp.com/" target="_blank">
+      <a href="https://vps-site-67188f5955fc.herokuapp.com/" target="_blank">
         <img alt="FREE-VPS-SITE" src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
       </a>
     </td>
